@@ -1,0 +1,7 @@
+2025-04-01 13:02:39,414 - ERROR - 'NoneType' object has no attribute 'strip'
+2025-04-01 13:35:26,501 - ERROR - Erro ao processar e-mail: 'str' object has no attribute 'group'
+Traceback (most recent call last):
+  File "C:\Users\KRP1PO\OneDrive - Bosch Group\1.Projetos\4_RPAWorkOn\scripWorkOn.py", line 54, in <module>
+    values = [match.group(1).strip() for match in re.findall(standard_result, result_body)]
+              ^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'group'
