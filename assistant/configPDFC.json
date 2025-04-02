@@ -1,6 +1,7 @@
 {
     "email_field": "fixed-term.Pedro.Kruger@boschrexroth.com.br",
-    "base_folder_path": "C:\\Users\\KRP1PO\\Desktop\\PDFC",
+    "path_file": "C:\\Users\\KRP1PO\\OneDrive - Bosch Group\\1.Projetos\\4_RPAWorkOn\\teste.xlsx", 
+    "sheet": "WorkOn",
     "MarckCheck": 1,
-    "MarckRed": 2
+    "MarckFlag": 2
 }
